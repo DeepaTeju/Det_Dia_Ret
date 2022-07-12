@@ -26,19 +26,19 @@
             API	                  Twilio cloud API
 
 
-Data visualization :
+# Data visualization :
 
 
 ![data visualization](https://user-images.githubusercontent.com/91202471/178436331-fd2f3472-0115-4a77-a976-91ece8b6ec13.png)
 
 
-System Architecture:
+# System Architecture:
 
 ![System_arch](https://user-images.githubusercontent.com/91202471/178436164-f54d8088-dabe-4438-8011-e91c66e2d4ef.png)
 
 
 
-Sample GUI images of Det_Dia_Ret:
+# Sample GUI images of Det_Dia_Ret:
 
 
 ![DDR1](https://user-images.githubusercontent.com/91202471/178436989-efeb47ce-b8c3-4b55-9d55-1627594de367.png)
